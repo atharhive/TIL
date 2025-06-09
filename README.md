@@ -1,4 +1,4 @@
-> ## 🪶 **TIL – Today I Learn**  
+## 🪶 **TIL – Today I Learn**  
  A quiet log of what I’ve been learning over time.  
  Explore the [**TIL folder →**](TIL) to browse the timeline — slow, imperfect, honest.
 
