@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="your-gif-link-here.gif" width="300px" alt="a quiet wandering">
+  <img src="https://i.pinimg.com/originals/a0/6e/b3/a06eb3440bb5bbc0ca8166c5cbb2721f.gif" width="300px" alt="a quiet wandering">
 </p>
 
 <h2 align="center">
