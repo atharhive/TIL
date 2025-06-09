@@ -61,6 +61,7 @@ All of it is helping me.
 ## 📁 Folder Structure
 is something like this : 
 
+```bash
 til-journal/
 │
 ├── README.md                 # 📜 This quiet doorway
