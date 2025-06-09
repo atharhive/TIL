@@ -1,6 +1,6 @@
-> ## 🪶 TIL – Today I Learn  
-> This is where I collect what I’ve been learning.  
-> Explore the folders **TIL** to checkout my TIL time-line.
+> ## 🪶 **TIL – Today I Learn**  
+> A quiet log of what I’ve been learning over time.  
+> Explore the [**TIL folder →**](./til/) to browse the timeline — slow, imperfect, honest.
 
 ---
 
