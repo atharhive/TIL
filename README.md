@@ -4,24 +4,27 @@
 
 ---
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/a0/6e/b3/a06eb3440bb5bbc0ca8166c5cbb2721f.gif" width="300px" alt="a quiet wandering">
-</p>
-
-<h2 align="center">
-  go out and understand even if it is not <br>
-  aesthetically pleasing, read ebooks on your <br>
-  phone, learn languages that some seem to deem <br>
-  irrelevant, study a field people tell you is useless <br>
-  take ugly notes, curse when you explain concepts <br>
-  back to yourself, study sitting at the kitchen table, <br>
-  make wonky flashcards, read things that interest <br>
-  you, eat takeout between study sessions, wear <br>
-  sneakers instead of oxfords, sweatpants when <br>
-  you're sitting on the library floor, draw diagrams in <br>
-  cheap ballpoint pen, learn 'imperfectly' <br><br>
-  it never matters like that.
-</h2>
+<table>
+  <tr>
+    <td>
+      <img src="https://i.pinimg.com/originals/a0/6e/b3/a06eb3440bb5bbc0ca8166c5cbb2721f.gif" width="250px" alt="a quiet wandering">
+    </td>
+    <td>
+      <p style="font-size: 12px; line-height: 1.5em;">
+        <em>
+        go out and understand even if it is not aesthetically pleasing,<br>
+        read ebooks on your phone, learn languages that some seem to deem irrelevant,<br>
+        study a field people tell you is useless, take ugly notes, curse when you explain concepts<br>
+        back to yourself, study sitting at the kitchen table, make wonky flashcards,<br>
+        read things that interest you, eat takeout between study sessions,<br>
+        wear sneakers instead of oxfords, sweatpants when you're sitting on the library floor,<br>
+        draw diagrams in cheap ballpoint pen, learn 'imperfectly'<br><br>
+        it never matters like that.
+        </em>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
