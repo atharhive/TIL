@@ -68,33 +68,33 @@ til-journal/
 ├── timeline.md              # 🕰️ Key shifts, a map of change
 │
 ├── til/                     # 🌱 Today I Learned entries
-│   ├── 2023/
-│   ├── 2024/
+│   ├── 2023.md
+│   ├── 2024.md
 │   └── 2025/
 │       └── 06-09-generators.md
 │
 ├── notes/                   # 🧠 Learning notes (any topic)
 │   ├── cs50.md
 │   ├── terminal-tricks.md
-│   └── stoic-ideas.md
+│   └── ml.md
 │
 ├── journal/                 # 💭 Honest thoughts, reflections
 │   ├── 2024-06-09.md
 │   └── 2024-05-28.md
 │
-├── books/                   # 📚 Summaries, margins, quotes
+├── books/                   # 📚 books hehe :) 
 │   ├── dune.md
-│   └── sapiens.md
+│   └── completed-books.md
 │
 ├── fragments/               # 🧷 Raw ideas, loose words, unfinished stuff
 │   ├── why-learn.md
-│   └── someday.md
+│   └── how-to.md
 │
 ├── code/                    # 💻 Learning-through-code
 │   ├── fizzbuzz.py
 │   └── cli-snippets.js
 │
 └── resources/               # 🔗 Useful links, tools, docs
-    └── reading-list.md
+    └── python-resource.md
 
 
