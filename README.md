@@ -1,6 +1,6 @@
 > ## 🪶 **TIL – Today I Learn**  
-> A quiet log of what I’ve been learning over time.  
-> Explore the [**TIL folder →**](TIL) to browse the timeline — slow, imperfect, honest.
+ A quiet log of what I’ve been learning over time.  
+ Explore the [**TIL folder →**](TIL) to browse the timeline — slow, imperfect, honest.
 
 ---
 
@@ -59,4 +59,41 @@ All of it is helping me.
 ---
 
 ## 📁 Folder Structure
+is something like this : 
+
+til-journal/
+│
+├── README.md                 # 📜 This quiet doorway
+├── timeline.md              # 🕰️ Key shifts, a map of change
+│
+├── til/                     # 🌱 Today I Learned entries
+│   ├── 2023/
+│   ├── 2024/
+│   └── 2025/
+│       └── 06-09-generators.md
+│
+├── notes/                   # 🧠 Learning notes (any topic)
+│   ├── cs50.md
+│   ├── terminal-tricks.md
+│   └── stoic-ideas.md
+│
+├── journal/                 # 💭 Honest thoughts, reflections
+│   ├── 2024-06-09.md
+│   └── 2024-05-28.md
+│
+├── books/                   # 📚 Summaries, margins, quotes
+│   ├── dune.md
+│   └── sapiens.md
+│
+├── fragments/               # 🧷 Raw ideas, loose words, unfinished stuff
+│   ├── why-learn.md
+│   └── someday.md
+│
+├── code/                    # 💻 Learning-through-code
+│   ├── fizzbuzz.py
+│   └── cli-snippets.js
+│
+└── resources/               # 🔗 Useful links, tools, docs
+    └── reading-list.md
+
 
